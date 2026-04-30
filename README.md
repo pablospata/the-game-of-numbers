@@ -2,14 +2,142 @@
 
 **Client Acquisition for Financial Advisors**
 
-Extracted from the 2021 edition flipbook.
+Extraído del flipbook de la edición 2021. Traducido al español capítulo por capítulo.
 
-> **📥 [Descargar el Resumen Completo en Español (Archivo Markdown)](resumen/resumen-completo.md)**
+> **📖 [Descargar el Libro Completo en Español (Archivo Markdown)](es/libro-completo.md)**
+>
+> **📝 [Descargar el Resumen Completo en Español (Archivo Markdown)](resumen/resumen-completo.md)**
+>
+> **🎯 [Guía Práctica: Destilado Accionable del Libro](anexos/guia-practica.md)**
+>
+> **✅ [Checklist de Prospección](anexos/checklist-prospeccion.md)**
 
 ---
 
-## Table of Contents
+## Índice — Traducción al Español
 
+### Prefacio
+
+- [Prefacio](es/00-prefacio.md)
+
+### Introducción
+
+- [Introducción — Tantos Prospectos, Tan Poco Tiempo](es/01-introduccion.md)
+
+### Primera Parte: Creencia (Capítulos 1–16)
+
+- [1. La Creencia Impulsa la Conducta](es/02-capitulo-01-la-creencia-impulsa-la-conducta.md)
+- [2. Un Negocio de Hacer, No de Saber](es/03-capitulo-02-un-negocio-de-hacer-no-de-saber.md)
+- [3. Estás Construyendo Tu Propio Negocio](es/04-capitulo-03-estas-construyendo-tu-propio-negocio.md)
+- [4. Fe](es/05-capitulo-04-fe.md)
+- [5. El Mito de la Motivación](es/06-capitulo-05-el-mito-de-la-motivacion.md)
+- [6. Gratitud](es/07-capitulo-06-gratitud.md)
+- [7. La Prospección Termina](es/08-capitulo-07-la-prospeccion-termina.md)
+- [8. El Miedo, Primera Parte](es/09-capitulo-08-el-miedo-primera-parte.md)
+- [9. El Miedo, Segunda Parte](es/10-capitulo-09-el-miedo-segunda-parte.md)
+- [10. Hoy](es/11-capitulo-10-hoy.md)
+- [11. Autenticidad](es/12-capitulo-11-autenticidad.md)
+- [12. Un Sentido de Quién Eres](es/13-capitulo-12-un-sentido-de-quien-eres.md)
+- [13. Una Propuesta de Valor Positiva Desde el Primer Día](es/14-capitulo-13-una-propuesta-de-valor-positiva-desde-el-primer-dia.md)
+- [14. Hacia un Primer Borrador](es/15-capitulo-14-hacia-un-primer-borrador.md)
+- [15. Sistema de Creencias 1.0](es/16-capitulo-15-sistema-de-creencias-1-0.md)
+- [16. De Todos Modos, Es Solo una Prueba](es/17-capitulo-16-de-todos-modos-es-solo-una-prueba.md)
+
+### Segunda Parte: Conducta (Capítulos 17–45)
+
+- [17. Eres Lo Que Haces](es/18-capitulo-17-eres-lo-que-haces.md)
+- [18. Arriesgarse al No](es/19-capitulo-18-arriesgarse-al-no.md)
+- [19. El Casi Dorado](es/20-capitulo-19-el-casi-dorado.md)
+- [20. No No Es Rechazo](es/21-capitulo-20-no-no-es-rechazo.md)
+- [21. El No No Duele](es/22-capitulo-21-el-no-no-duele.md)
+- [22. La Forma en Que Experimentamos el No](es/23-capitulo-22-la-forma-en-que-experimentamos-el-no.md)
+- [23. Por Qué Creemos Que el No Duele](es/24-capitulo-23-por-que-creemos-que-el-no-duele.md)
+- [24. Por Qué Fracasan los Programas de Prospección](es/25-capitulo-24-por-que-fracasan-los-programas-de-prospeccion.md)
+- [25. ¿Cómo Prospectas?](es/26-capitulo-25-como-prospectas.md)
+- [26. El Método No Importa](es/27-capitulo-26-el-metodo-no-importa.md)
+- [27. Superando la Ansiedad por el Método](es/28-capitulo-27-superando-la-ansiedad-por-el-metodo.md)
+- [28. Una Carta de Pre-Acercamiento para Estos Tiempos](es/29-capitulo-28-una-carta-de-pre-acercamiento-para-estos-tiempos.md)
+- [29. Si Se Siente Bien, Hazlo](es/30-capitulo-29-si-se-siente-bien-hazlo.md)
+- [30. Una Vez Más con Sentimiento: El Marketing No Es Prospección](es/31-capitulo-30-una-vez-mas-con-sentimiento-el-marketing-no-es-prospeccion.md)
+- [31. ¿A Quién Prospectas?](es/32-capitulo-31-a-quien-prospectas.md)
+- [32. Dos Palabras Sobre Comprar una Práctica: Piénsalo Tres Veces](es/33-capitulo-32-dos-palabras-sobre-comprar-una-practica-piensalo-tres-veces.md)
+- [33. Metas, Planes, Números y Otras Efímeras](es/34-capitulo-33-metas-planes-numeros-y-otras-efimeras.md)
+- [34. Zonas de Confort](es/35-capitulo-34-zonas-de-confort.md)
+- [35. La Evasión Envenena el Resto de Tu Vida](es/36-capitulo-35-la-evasion-envenena-el-resto-de-tu-vida.md)
+- [36. ¿Para Qué Estamos Prospectando?](es/37-capitulo-36-para-que-estamos-prospectando.md)
+- [37. La Pregunta del Doble Golpe](es/38-capitulo-37-la-pregunta-del-doble-golpe.md)
+- [38. Palabras y Música](es/39-capitulo-38-palabras-y-musica.md)
+- [39. La Conversación Sobre Ingresos de Jubilación: Aspectos No Verbales](es/40-capitulo-39-la-conversacion-sobre-ingresos-de-jubilacion-aspectos-no-verbales.md)
+- [40. Doble Golpe: Segunda Opinión](es/41-capitulo-40-doble-golpe-segunda-opinion.md)
+- [41. Segunda Opinión: Comentario](es/42-capitulo-41-segunda-opinion-comentario.md)
+- [42. Variaciones del Doble Golpe](es/43-capitulo-42-variaciones-del-doble-golpe.md)
+- [43. ¿Para Qué Son Estos Guiones?](es/44-capitulo-43-para-que-son-estos-guiones.md)
+- [44. Prospectando con Tu Yo Auténtico](es/45-capitulo-44-prospectando-con-tu-yo-autentico.md)
+- [45. Una Despedida de Aristóteles](es/46-capitulo-45-una-despedida-de-aristoteles.md)
+
+### Tercera Parte: Resistencia (Capítulos 46–71)
+
+- [46. Fuerza Cósmica del Hábito](es/47-capitulo-46-fuerza-cosmica-del-habito.md)
+- [47. Levantarse del Sofá](es/48-capitulo-47-levantarse-del-sofa.md)
+- [48. El Error del Juicio](es/49-capitulo-48-el-error-del-juicio.md)
+- [49. Estableciendo una Línea Base](es/50-capitulo-49-estableciendo-una-linea-base.md)
+- [50. ¿Y Si No Puedes?](es/51-capitulo-50-y-si-no-puedes.md)
+- [51. Elevando la Línea Base](es/52-capitulo-51-elevando-la-linea-base.md)
+- [52. No Es el Nivel; Es la Trayectoria](es/53-capitulo-52-no-es-el-nivel-es-la-trayectoria.md)
+- [53. Recuerda Cómo Estamos Llevando la Cuenta](es/54-capitulo-53-recuerda-como-estamos-llevando-la-cuenta.md)
+- [54. Registra Tu Actividad](es/55-capitulo-54-registra-tu-actividad.md)
+- [55. Ataque de Tiburón](es/56-capitulo-55-ataque-de-tiburon.md)
+- [56. Retirada Táctica y Temporal](es/57-capitulo-56-retirada-tactica-y-temporal.md)
+- [57. Diversión con Recompensas](es/58-capitulo-57-diversion-con-recompensas.md)
+- [58. Estos Son los Fundamentos](es/59-capitulo-58-estos-son-los-fundamentos.md)
+- [59. Una Guía Especial para los Que Re-Comienzan](es/60-capitulo-59-una-guia-especial-para-los-que-re-comienzan.md)
+- [60. Re-Comenzar, Segunda Parte: Despejando los Escombros](es/61-capitulo-60-re-comenzar-segunda-parte-despejando-los-escombros.md)
+- [61. Despidiendo a Tu Mayor Dolor de Cabeza](es/62-capitulo-61-despidiendo-a-tu-mayor-dolor-de-cabeza.md)
+- [62. La Carta](es/63-capitulo-62-la-carta.md)
+- [63. Deja de Comprar Billetes de Lotería](es/64-capitulo-63-deja-de-comprar-billetes-de-loteria.md)
+- [64. La Tercera Pieza: Delegar el Trabajo Administrativo](es/65-capitulo-64-la-tercera-pieza-delegar-el-trabajo-administrativo.md)
+- [65. Oxigenando Tu Actitud](es/66-capitulo-65-oxigenando-tu-actitud.md)
+- [66. Sigan Llegando Esas Tarjetas y Cartas](es/67-capitulo-66-sigan-llegando-esas-tarjetas-y-cartas.md)
+- [67. Gracias por Todo y por Nada](es/68-capitulo-67-gracias-por-todo-y-por-nada.md)
+- [68. Propinas](es/69-capitulo-68-propinas.md)
+- [69. Toma la Posta Desde Aquí](es/70-capitulo-69-toma-la-posta-desde-aqui.md)
+- [70. Un Libro de lo Esencial](es/71-capitulo-70-un-libro-de-lo-esencial.md)
+- [71. Lo Próximo Correcto](es/72-capitulo-71-lo-proximo-correcto.md)
+
+### Cuarta Parte: Habilidad (Capítulos 72–88)
+
+- [72. La Habilidad Sigue a la Resistencia](es/73-capitulo-72-la-habilidad-sigue-a-la-resistencia.md)
+- [73. El Estilo de Vida Es la Variable Crítica](es/74-capitulo-73-el-estilo-de-vida-es-la-variable-critica.md)
+- [74. Vender Es el Acto de Persuasión con Principios](es/75-capitulo-74-vender-es-el-acto-de-persuasion-con-principios.md)
+- [75. La Mayor Habilidad](es/76-capitulo-75-la-mayor-habilidad.md)
+- [76. La Primera Regla del Discurso](es/77-capitulo-76-la-primera-regla-del-discurso.md)
+- [77. La Segunda Regla del Discurso](es/78-capitulo-77-la-segunda-regla-del-discurso.md)
+- [78. La Tercera Regla del Discurso](es/79-capitulo-78-la-tercera-regla-del-discurso.md)
+- [79. Comienza a Trazar Tu Círculo de Competencia](es/80-capitulo-79-comienza-a-trazar-tu-circulo-de-competencia.md)
+- [80. Gestión de Portafolio: Fuera del Círculo de Todos](es/81-capitulo-80-gestion-de-portafolio-fuera-del-circulo-de-todos.md)
+- [81. La Conducta Es el Gorila de Cuatrocientos Kilos](es/82-capitulo-81-la-conducta-es-el-gorila-de-cuatrocientos-kilos.md)
+- [82. Escúchate a Ti Mismo También](es/83-capitulo-82-escuchate-a-ti-mismo-tambien.md)
+- [83. Escribe Lo Que Vas a Decir](es/84-capitulo-83-escribe-lo-que-vas-a-decir.md)
+- [84. Preguntas y Respuestas: ¿Cuál Es la Pregunta Detrás de la Pregunta?](es/85-capitulo-84-preguntas-y-respuestas-cual-es-la-pregunta-detras-de-la-pregunta.md)
+- [85. Perfeccionando la No-Respuesta](es/86-capitulo-85-perfeccionando-la-no-respuesta.md)
+- [86. Al Final de Cada Entrevista Fallida](es/87-capitulo-86-al-final-de-cada-entrevista-fallida.md)
+- [87. Retirarse con Clase y Dejar la Puerta Abierta](es/88-capitulo-87-retirarse-con-clase-y-dejar-la-puerta-abierta.md)
+- [88. Presentaciones, No Referencias](es/89-capitulo-88-presentaciones-no-referencias.md)
+
+### Coda
+
+- [Coda: El Optimismo Es el Único Realismo](es/90-coda-el-optimismo-es-el-unico-realismo.md)
+
+### Material Complementario
+
+- [Libro Compañero de Nick para Gestores de Patrimonio](es/91-libro-companero-de-nick-para-gestores-de-patrimonio.md)
+- [Recursos](es/92-recursos.md)
+- [Sobre el Autor](es/93-sobre-el-autor.md)
+- [Agradecimientos](es/94-agradecimientos.md)
+
+---
+
+## Table of Contents — English Source
 
 ### Preface
 
@@ -132,4 +260,4 @@ Extracted from the 2021 edition flipbook.
 
 ---
 
-*Total chapters extracted: 95*
+*Total: 88 capítulos + prefacio, introducción, coda y material complementario (95 archivos)*
