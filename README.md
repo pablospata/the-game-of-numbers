@@ -14,6 +14,31 @@ Extraído del flipbook de la edición 2021. Traducido al español capítulo por 
 
 ---
 
+## 🎧 Audiolibro en Español
+
+Versión en audio del libro completo y materiales complementarios.
+
+### Libro Completo (por partes)
+
+| # | Audio | Contenido |
+|---|---|---|
+| 01 | [Prefacio e Introducción](audio/01-prefacio-e-introduccion.mp3) | Prefacio + Introducción |
+| 02 | [Parte 1: Creencia](audio/02-parte-1-creencia.mp3) | Capítulos 1–16 |
+| 03 | [Parte 2: Conducta](audio/03-parte-2-conducta.mp3) | Capítulos 17–45 |
+| 04 | [Parte 3: Resistencia](audio/04-parte-3-resistencia.mp3) | Capítulos 46–71 |
+| 05 | [Parte 4: Habilidad](audio/05-parte-4-habilidad.mp3) | Capítulos 72–88 |
+| 06 | [Coda y Complementario](audio/06-coda-y-complementario.mp3) | Coda + Recursos + Autor + Agradecimientos |
+
+### Material Complementario
+
+| # | Audio | Contenido |
+|---|---|---|
+| 07 | [Guía Práctica](audio/07-guia-practica.mp3) | Destilado accionable en 6 fases |
+| 08 | [Checklist de Prospección](audio/08-checklist-prospeccion.mp3) | Verificación rápida de principios |
+| 09 | [Resumen Completo](audio/09-resumen-completo.mp3) | Resumen capítulo por capítulo |
+
+---
+
 ## Índice — Traducción al Español
 
 ### Prefacio
