@@ -1,0 +1,3 @@
+# Chapter 46: Cosmic Habitforce
+
+WE ESTABLISHED EARLIER THAT PROSPECTING WAS NEITHER AN ART nor a science, but a discipline. Let’s now examine the nature of that discipline, and its goal: the formation, practice, and gradual expansion of the prospecting habit. And once again, Aristotle: “We are what we repeatedly do. Excellence, therefore, is not an act, but a habit.” You can only become excellent at prospecting by developing the habit of prospecting. You become habituated to prospecting, and progressively expand your capacity for it, exactly as you do any other positive practice. In fact, the very best way to understand the development of the prospecting habit is through the paradigm of endurance training.

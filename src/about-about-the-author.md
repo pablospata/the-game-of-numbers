@@ -1,0 +1,5 @@
+# About the Author
+
+©Copyright Mark Murray 2019 About the Author Nick Murray has been a financial services professional for more than 50 years. He is among the industry’s most respected writers and speakers. Nick is the author of 13 books for financial advisors, the latest of which is Nick Murray’s Scripts: What to Say and How to Say It. His one book for investors, Simple Wealth, Inevitable Wealth, has sold well over a quarter million copies. His monthly newsletter, Nick Murray Interactive, is avidly followed by the most accomplished financial advisors all over the English-speaking world.
+
+Yes, you burn to do good, and to prosper thereby. But first you have to find people who will allow you to do good for them. You have to develop the discipline of client acquisition. Then you have to go on practicing that discipline, with passion and perseverance, for as long as it takes. And be assured: you will succeed. Indeed, put completely out of your mind the possibility that you may fall short of all you desire to achieve in this profession. And I say again: put the possibility of failure right out of your mind, for that is the only place it exists. —Nick Murray

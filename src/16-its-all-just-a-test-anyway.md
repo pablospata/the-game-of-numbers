@@ -1,0 +1,3 @@
+# Chapter 16: It's All Just a Test, Anyway
+
+16 It’s All Just a Test, Anyway IN THE END, THE PROSPECTING PROGRAM WHICH YOU ARE ABOUT to start (or re-start) is just a test. All the universe is trying to do is to convince you of what it already knows, and what I already know. Which is that you undoubtedly have what it takes to be lastingly successful. The only person who may not know this yet is you. Prospecting is the way you learn it. But the outcome is a foregone conclusion: you cannot fail if you don’t stop prospecting. You are inevitably going to pass the test. You are surely going to have the career you’re dreaming of. Because you are never going to stop prospecting until you do.
